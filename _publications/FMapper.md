@@ -1,7 +1,7 @@
 ---
 title: "F-Mapper: A Fuzzy Mapper clustering algorithm"
 category: articles
-permalink: "/publications/F-Mapper/"
+permalink: "/publications/FMapper/"
 venue: "Knowledge-Based Systems"
 date: 12-02-2020
 link: https://www.sciencedirect.com/science/article/abs/pii/S0950705119304794
