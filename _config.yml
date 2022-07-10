@@ -10,7 +10,7 @@ locale                   : "Vietnam"
 title                    : "Anh Do"
 title_separator          : "-"
 name                     : &name "Anh Do"
-description              : &description "FPTAI Vietnam"
+description              : &description "FPT AI Vietnam"
 url                      : https://anhhndo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "anhhndo.github.io"
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "hoanganh200296@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
