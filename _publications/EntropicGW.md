@@ -1,14 +1,22 @@
 ---
-title: "F-Mapper: A Fuzzy Mapper clustering algorithm"
+title: "Entropic Gromov-Wasserstein between Gaussian Distributions"
 category: articles
-permalink: "/publications/F-Mapper/"
-venue: Knowledge-Based Systems
-date: 12-02-2020
-link: https://www.sciencedirect.com/science/article/abs/pii/S0950705119304794
+permalink: "/publications/EntropicGW/"
+venue: "Under review"
+date: 24-08-2021
+link: https://arxiv.org/abs/2108.10961
 ---
 
-[comment]: <> (<a href="https://www.sciencedirect.com/science/article/abs/pii/S0950705119304794">Arxiv</a>.)
+[comment]: <> (<a href="https://arxiv.org/pdf/2108.10961.pdf">Arxiv</a>.)
 <b>Huy Nguyen\*</b>, Khang Le\*, Dung Le\*, Dat Do, Tung Pham, Nhat Ho
 
-Abstract: Using topology in data analysis, known as Topological Data Analysis (TDA), is now a promising new area of data mining research. One of the important and foundational tools of TDA is the Mapper algorithm. During the past two decades, this algorithm has proven its useful and robust abilities in extracting insights and meaningful information from high-dimensional datasets. Nevertheless, several alterations in the choices of parameters, such as lens, cover and clustering, can be used to develop this algorithm. In this paper, we propose the F-Mapper algorithm, based on the foundation of the Mapper algorithm, to solve the problem of automating when dividing cover intervals with an arbitrary percentage of overlap. To clarify the efficiency of this enhanced algorithm, experiments were carried out on three datasets, including the Unit Circle, Reaven and Miller Diabetes, and NKI Breast Cancer. The experimental results will be analyzed and compared with those of the original method, the Mapper algorithm, through the output image and silhouette coefficient score in the evaluation of clustering.
+Abstract: We study the entropic Gromov-Wasserstein and its unbalanced version between (unbalanced)
+Gaussian distributions with different dimensions. When the metric is the inner product, which
+we refer to as inner product Gromov-Wasserstein (IGW), we demonstrate that the optimal
+transportation plans of entropic IGW and its unbalanced variant are (unbalanced) Gaussian
+distributions. Via an application of von Neumann’s trace inequality, we obtain closed-form
+expressions for the entropic IGW between these Gaussian distributions. Finally, we consider an
+entropic inner product Gromov-Wasserstein barycenter of multiple Gaussian distributions. We
+prove that the barycenter is Gaussian distribution when the entropic regularization parameter
+is small. We further derive closed-form expressions for the covariance matrix of the barycenter.
 
